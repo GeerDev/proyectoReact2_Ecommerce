@@ -2,7 +2,7 @@ import React from 'react';
 import { AppBar, Toolbar, IconButton, Badge, Typography } from '@material-ui/core';
 import { ShoppingCart } from '@material-ui/icons';
 
-import logo from '../../assets/Naranjas.webp';
+import logo from '../../assets/tiendalogo.webp';
 import useStyles from './styles';
 
 import { Link, useLocation } from 'react-router-dom';
